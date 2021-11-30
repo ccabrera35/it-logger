@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Go to the gym today or tomorrow.",
+      "attention": true,
+      "tech": "Cat Cabrera",
+      "date": "2021-11-29T21:32:17.191Z",
+      "id": 1
+    },
+    {
+      "message": "Eat popcorn later tonight.",
+      "attention": true,
+      "tech": "Mike Everdeen",
+      "date": "2021-11-29T21:33:24.369Z",
+      "id": 2
+    },
+    {
+      "message": "Run a mile.",
+      "attention": false,
+      "tech": "Jen Anniston",
+      "date": "2021-11-29T21:34:15.142Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jen",
+      "lastName": "Anniston",
+      "id": 4
+    },
+    {
+      "firstName": "Cat",
+      "lastName": "Cabrera",
+      "id": 5
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Everdeen",
+      "id": 6
+    }
+  ]
+}
